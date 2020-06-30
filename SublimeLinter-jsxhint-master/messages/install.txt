@@ -1,0 +1,4 @@
+SublimeLinter-jsxhint
+-------------------------------
+
+This plugin has been deprecated
